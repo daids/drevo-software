@@ -1,0 +1,4 @@
+Upgrade Instructions:
+  1, fix the main interface icon misplaced Bug
+  2, optimize the lighting static superposition operation, separate processing
+  3, add common software knob macro definition
