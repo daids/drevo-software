@@ -1,4 +1,9 @@
-Upgrade Instructions:
-  1, fix the main interface icon misplaced Bug
-  2, optimize the lighting static superposition operation, separate processing
-  3, add common software knob macro definition
+Update log:
+    Update 01: After fixing the disable button, tap the trigger media button Bug
+    Update 02: Increase shadow border effect
+    Update 03: Add automatic login
+    Update 04: Installation process, increase boot from boot
+    Update 05: Fix Knob Text Display Bug
+    Update 06: Collect relevant information (software version, firmware version, windows version, etc.) when user feedback
+    Update 07: Unlink the network connection ping function
+    Update 08: Add a quick setup configuration scheme to onboard memory logic
