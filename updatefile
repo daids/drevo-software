@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<version ver="1.1.0.2" reboot="1" setup="0">
+<version ver="1.1.0.4" reboot="1" setup="0">
   <components>
-    <component name="update.zip" md5="xxxxxx1" url="DPCVER1.0.16.180718/update.zip" />
+    <component name="update.zip" md5="" url="DPCVER1.1.0.4/update.zip" />
   </components>
 </version>
