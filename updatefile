@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <version ver="1.1.0.4" reboot="1" setup="1">
   <setup>
+    <name>"update.zip"</name>
+    <url>""</url>
+    <url>"DPCVER1.1.0.4/update.zip"</url>
     <setup name="update.zip" md5="" url="DPCVER1.1.0.4/update.zip" />
   </setup>
 </version>
