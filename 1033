@@ -1,9 +1,6 @@
-Update log:
-    Update 01: After fixing the disable button, tap the trigger media button Bug
-    Update 02: Increase shadow border effect
-    Update 03: Add automatic login
-    Update 04: Installation process, increase boot from boot
-    Update 05: Fix Knob Text Display Bug
-    Update 06: Collect relevant information (software version, firmware version, windows version, etc.) when user feedback
-    Update 07: Unlink the network connection ping function
-    Update 08: Add a quick setup configuration scheme to onboard memory logic
+Version: 1.1.0.4, update log
+1, fix the genius knob macro definition setting Bug, click and double-click the swap bug;
+2, optimize the login edit box display effect;
+3. After optimizing the configuration program association program, the keyboard automatically switches the solution logic;
+4, add a custom side lighting configuration (need to choose in the quick selection);
+5, optimize driver performance;
