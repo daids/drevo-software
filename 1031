@@ -1,6 +1,8 @@
-Version: 1.1.0.4, Updateprotokoll
-1, fixiere die Genie-Knob-Makro-Definitions-Einstellung Bug, klicke und doppelklicke den Swap-Bug;
-2, optimieren Sie den Login-Edit-Box-Display-Effekt;
-3. Nach der Optimierung des Konfigurationsprogramm-Zuordnungsprogramms schaltet die Tastatur automatisch die Lösungslogik um;
-4, fügen Sie eine benutzerdefinierte Seite Beleuchtung Konfiguration (müssen in der Schnellauswahl auswählen);
-5, optimieren die Fahrerleistung;
+Version: 1.1.0.6 update log
+1, optimize the custom button backlight configuration, repair the left side of the light software does not display the problem;
+2, after modifying the factory settings, the software data is not cleared.
+3. Optimize the custom button backlight static overlay settings,
+4, repair user feedback content, received data display incomplete problem
+5, increase the knob programming operation prompt
+6, increase the custom button backlight static overlay operation tips
+7, after repairing the keyboard brushed into a brick, the software can not start the firmware upgrade program
