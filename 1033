@@ -1,6 +1,8 @@
-Version: 1.1.0.4, update log
-1, fix the genius knob macro definition setting Bug, click and double-click the swap bug;
-2, optimize the login edit box display effect;
-3. After optimizing the configuration program association program, the keyboard automatically switches the solution logic;
-4, add a custom side lighting configuration (need to choose in the quick selection);
-5, optimize driver performance;
+Version: 1.1.0.6 update log
+1, optimize the custom button backlight configuration, repair the left side of the light software does not display the problem;
+2, after modifying the factory settings, the software data is not cleared.
+3. Optimize the custom button backlight static overlay settings,
+4, repair user feedback content, received data display incomplete problem
+5, increase the knob programming operation prompt
+6, increase the custom button backlight static overlay operation tips
+7, after repairing the keyboard brushed into a brick, the software can not start the firmware upgrade program
