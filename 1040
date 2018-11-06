@@ -1,6 +1,8 @@
-Versione: 1.1.0.4, registro di aggiornamento
-1, correggi l'impostazione della definizione della macro della manopola geni Bug, clicca e fai doppio clic sul bug di swap;
-2, ottimizzare l'effetto di visualizzazione della casella di modifica login;
-3. Dopo aver ottimizzato il programma di associazione del programma di configurazione, la tastiera cambia automaticamente la logica della soluzione;
-4, aggiungere una configurazione personalizzata di illuminazione laterale (è necessario scegliere nella selezione rapida);
-5, ottimizzare le prestazioni del driver;
+Version: 1.1.0.6 update log
+1, optimize the custom button backlight configuration, repair the left side of the light software does not display the problem;
+2, after modifying the factory settings, the software data is not cleared.
+3. Optimize the custom button backlight static overlay settings,
+4, repair user feedback content, received data display incomplete problem
+5, increase the knob programming operation prompt
+6, increase the custom button backlight static overlay operation tips
+7, after repairing the keyboard brushed into a brick, the software can not start the firmware upgrade program
