@@ -1,6 +1,8 @@
-Version: 1.1.0.4, journal de mise à jour
-1, corrigez le bug de la définition de la macro du bouton de génie, puis cliquez deux fois sur le bogue de permutation;
-2, optimiser l’effet d’affichage de la boîte de dialogue de connexion;
-3. Après avoir optimisé le programme d'association du programme de configuration, le clavier bascule automatiquement la logique de la solution.
-4, ajoutez une configuration d’éclairage latéral personnalisée (vous devez choisir dans la sélection rapide);
-5, optimiser les performances du conducteur;
+Version: 1.1.0.6 update log
+1, optimize the custom button backlight configuration, repair the left side of the light software does not display the problem;
+2, after modifying the factory settings, the software data is not cleared.
+3. Optimize the custom button backlight static overlay settings,
+4, repair user feedback content, received data display incomplete problem
+5, increase the knob programming operation prompt
+6, increase the custom button backlight static overlay operation tips
+7, after repairing the keyboard brushed into a brick, the software can not start the firmware upgrade program
