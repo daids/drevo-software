@@ -1,7 +1,2 @@
-Version: 1.1.0.7 update log
-1, repair the keyboard backlight can not sleep (or restore) with the computer monitor to turn off the backlight (or turn on the backlight)
-2, optimize the startup window, no longer enlarge the display for devices that are not connected;
-3. After the computer starts the driver, it minimizes the display;
-4, new, the driver can set the knob data directly to the keyboard;
-5, optimize the UI display
-6, optimize the software interactive experience
+Version: 1.1.0.8 update log
+1, Fix various vulnerabilities and quality enhancements
