@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<version ver="1.1.0.21" reboot="1" setup="1">
-  <setup name = "DREVO POWER CONSOLE Setup_1.1.0.21" url = "DPCVER1.1.0.21/update.zip">
+<version ver="1.1.0.23" reboot="1" setup="1">
+  <setup name = "DREVO-POWER-CONSOLE-Setup-1.1.0.23" url = "DPCVER1.1.0.23/update.zip">
   </setup>
 </version>
